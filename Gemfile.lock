@@ -85,6 +85,7 @@ GEM
       sassc (>= 1.11)
     globalid (0.4.1)
       activesupport (>= 4.2.0)
+    hirb (0.7.3)
     i18n (1.0.1)
       concurrent-ruby (~> 1.0)
     io-like (0.3.0)
@@ -222,6 +223,7 @@ DEPENDENCIES
   coffee-rails (~> 4.2)
   coffee-script-source (~> 1.11, >= 1.11.1)
   font-awesome-sass (~> 5.0.13)
+  hirb (~> 0.7.3)
   jbuilder (~> 2.5)
   jquery-rails
   jquery-ui-rails
