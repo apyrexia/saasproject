@@ -14,6 +14,10 @@ gem 'font-awesome-sass', '~> 5.0.13'
 # Use Hirb for better database table display in console
 gem 'hirb', '~> 0.7.3'
 # Use Uglifier as compressor for JavaScript assets
+
+# Use Devise for user authentication
+gem 'devise', '~> 4.2'
+
 gem 'uglifier', '>= 1.3.0'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'mini_racer', platforms: :ruby
